@@ -3,7 +3,7 @@
 
 
 # Tea Shop Project-----
-# Lenguage Used:
+ Lenguage Used:
   1.HTML
   2.Tailwind
 # FrameWork Used:
