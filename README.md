@@ -2,11 +2,11 @@
 
 
 
-# Tea Shop Project-----
+#Tea Shop Project-----
  Lenguage Used:
   1.HTML
   2.Tailwind
-# FrameWork Used:
+ FrameWork Used:
   .Daisy UI
 
 
